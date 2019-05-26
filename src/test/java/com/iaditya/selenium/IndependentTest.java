@@ -35,7 +35,7 @@ public class IndependentTest
 		recheck.startTest();
 
 		browser.get("http://iaditya.herokuapp.com/prime");
-		final WebElement href = browser.findElement(By.cssSelector(""));
+		final WebElement href = browser.findElement(By.cssSelector("div.widget.widget-text.prime"));
 
 		recheck.check(browser, "open");
 		recheck.capTest();
