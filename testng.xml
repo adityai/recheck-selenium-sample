@@ -2,7 +2,7 @@
 <suite name="Independent test Suite" >
   <test name="Independent test">
     <classes>
-     <class name="com.iaditya.testng.parallelsample.IndependentTest" />
+     <class name="com.iaditya.selenium.IndependentTest" />
     </classes>
   </test>
 </suite>
