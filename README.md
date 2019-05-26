@@ -1,3 +1,3 @@
-# testng-parallelsample
-Sample testng classes with parallel execution of methods, test classes, suites and multi-threaded.
+# recheck-selenium-test
+Sample testng selenium test with recheck.
 
