@@ -25,6 +25,14 @@
         <artifactId>selenium-java</artifactId>
         <version>3.14.0</version>
     </dependency>
+      <dependency>
+          <groupId>de.retest</groupId>
+          <artifactId>recheck-web</artifactId>
+          <version>1.0.0</version>
+          <scope>test</scope>
+      </dependency>
+
+
 	
   </dependencies>
 </project>
