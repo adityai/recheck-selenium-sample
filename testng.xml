@@ -2,7 +2,8 @@
 <suite name="Independent test Suite" >
   <test name="Independent test">
     <classes>
-     <class name="com.iaditya.selenium.IndependentTest" />
+<!--        <class name="com.iaditya.selenium.RecheckImplTest" />-->
+        <class name="com.iaditya.selenium.RecheckDriverTest" />
     </classes>
   </test>
 </suite>

@@ -17,7 +17,7 @@ import de.retest.recheck.*;
  * @author adityai
  *
  */
-public class IndependentTest 
+public class RecheckImplTest
 {
 	private WebDriver browser;
 	private Recheck recheck;
